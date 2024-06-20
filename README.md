@@ -1,6 +1,6 @@
 # Projeto - Cadastro de Usuários
 
-Este é um projeto front-end que integra a API e Banco de Dados MongoDB de um cadastro de usuários utilizando React e JavaScript.
+Este é um projeto front-end que integra a API e o banco de dados MongoDB para um cadastro de usuários, utilizando React e JavaScript.
 
 ## Iniciando o Projeto
 
