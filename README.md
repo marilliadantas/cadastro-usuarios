@@ -1,6 +1,6 @@
-# Cadastro de Usuários - Projeto README
+# Projeto - Cadastro de Usuários
 
-Este é um projeto de cadastro de usuários que utiliza Vite para o front-end com React e integra uma API em JavaScript com um banco de dados. 
+Este é um projeto front-end que integra a API e Banco de Dados MongoDB de um cadastro de usuários utilizando React e JavaScript.
 
 ## Iniciando o Projeto
 
@@ -11,24 +11,17 @@ Para começar, siga os passos abaixo para clonar o projeto, instalar as dependê
 Clone o repositório do GitHub para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-seu-projeto.git
-cd nome-do-seu-projeto
+git clone https://github.com/marilliadantas/cadastro-usuarios
 ```
 
 ## Instalando dependências
-# Para o front-end (Vite com React)
 npm install
 
-# Para a API (JavaScript com banco de dados)
-npm install
-
-## Rodando o projeto
-Front:
-```bash
-npm run dev
-```
-
-Back:
+## Iniciando o servidor
 ```bash
 node --watch server.js
+```
+## Rodando o projeto
+```bash
+npm run dev
 ```
